@@ -37,13 +37,13 @@ Product Purchase Assistance System for the Visually Impaired in Retail Store
 
 
 ## 📌 How to Use
-[<h3> 1️⃣ Classify_Product.ipynb</h3>](https://github.com/DyeonPark/Product-Detection-for-Visually-Impaired/blob/master/Classify_Product.ipynb)
+[<h3> 1️⃣ Learning_Product_Detect_(colab).ipynb</h3>](https://github.com/DyeonPark/Product-Detection-for-Visually-Impaired/blob/master/Classify_Product.ipynb)
 
 * Yolov5 모델을 사용하여 학습을 진행합니다.
 * Colab으로 실행하는 것을 권장하며, 데이터셋은 자동으로 연결됩니다.
 * 새로운 학습 모델을 만들고자 하는 경우만 실행하며, 그렇지 않을 때는 2️⃣부터 시작하도록 합니다.
 
-[<h3> 2️⃣ Learning_Product_Detect_(colab).ipynb</h3>](https://github.com/DyeonPark/Product-Detection-for-Visually-Impaired/blob/master/Classify_Product.ipynb) 
+[<h3> 2️⃣ Classify_Product.ipynb</h3>](https://github.com/DyeonPark/Product-Detection-for-Visually-Impaired/blob/master/Classify_Product.ipynb) 
 
 * 학습된 모델을 불러와 **손 영역 검출**과 **제품 영역 검출**을 수행합니다.
 * (1) 처리하고자 하는 이미지는 /datasets/images/에 넣어주도록 합니다
